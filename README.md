@@ -99,3 +99,8 @@ https://github.com/prman-pixar/RenderManForBlender/releases/tag/v_27.0
 
 >[!IMPORTANT]
 > Renderman works better in LTS versions (4.2 / 4.5) due to Python versions
+
+# To-Do
+
+- Blender Workflow
+- More Software Compatibility (Need Maya/ Katana / Houdini) Tests
