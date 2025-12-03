@@ -3,9 +3,9 @@
   
 <img src="https://github.com/AlejandroSQR/RenderMan27-RHEL10-Temporary-Workaround/blob/main/images/RMAN_TF1.svg" width="600" alt="RockyL10XPI">
 
-# RenderMan27 RHEL10 Temporary Workaround Fix
+# RenderMan 27 RHEL10 Temporary Workaround Fix
 
-RenderMan 27 Temporary Installation guide to RHEL 10-based distributions using provisional dependencies and packages
+RenderMan 27 Temporary Installation guide to RHEL 10-Based distributions (Rocky/Alma/Oracle/CentOS) using provisional dependencies and packages
 
 </div>
 
