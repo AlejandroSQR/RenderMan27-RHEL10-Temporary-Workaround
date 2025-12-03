@@ -81,7 +81,10 @@ Start the RenderMan Installer
 
 ``` sudo /opt/pixar/RenderMan-Installer-ncr-XX.X/bin/./RenderManInstaller``` 
 
-Here, you must first download the render engine then its license and select the plugin/software that you need to use RenderMan
+You must first download the render engine with its license and select the plugin/software that you need to use RenderMan
+
+>[!NOTE]
+> NCR Tested at the moment
 
 >[!NOTE]
 > Depending on the version installed, you will need to adjust the version number according to what you downloaded earlier.
