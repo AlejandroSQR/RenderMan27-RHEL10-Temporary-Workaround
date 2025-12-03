@@ -93,7 +93,7 @@ After you complete Renderman Installer, depending of your software, you need to 
 
 ## Blender
 
-you only need to download the RenderMan plugin.
+You only need to download the RenderMan plugin. Download, import and find your RenderMan location.
 
 https://github.com/prman-pixar/RenderManForBlender/releases/tag/v_27.0
 
